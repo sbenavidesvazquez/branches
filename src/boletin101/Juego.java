@@ -1,6 +1,6 @@
 
 package boletin101;
-
+//jooooooooodert
 import javax.swing.JOptionPane;
 /**
  *En esta clase se detallara la funcionalidad del programa
